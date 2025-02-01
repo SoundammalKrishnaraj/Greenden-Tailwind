@@ -17,6 +17,4 @@ Why this Project?
 The idea behind GreenDen was to create an e-commerce website that feels natural and inviting, just like the plants it features. The use of Tailwind CSS allowed me to rapidly build a flexible and modern layout while maintaining great visual consistency across the site.
 
 link of working website:
-
-
-
+https://soundammalkrishnaraj.github.io/Greenden-Tailwind/
